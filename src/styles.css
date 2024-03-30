@@ -107,6 +107,10 @@ img {
   border: 2px solid rgb(93, 132, 215);
 }
 
+.card-ul {
+  list-style: none;
+  display: block;
+}
 .card-body {
   padding: 20px;
   color: grey;
