@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(253, 200, 208);
+  background-color: rgb(251, 218, 223);
+  opacity: 0.8;
   font-family: sans-serif;
   line-height: 2;
 }
@@ -8,6 +9,7 @@ header {
   font-size: 20px;
   border-radius: 30px;
   padding: 50px;
+  line-height: 1px;
 }
 header h1 {
   color: grey;
@@ -108,21 +110,10 @@ img {
 
 .card-footer {
   padding: 0 30px 30px;
-}
-
-.btn {
-  display: block;
-  color: white;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 21px;
-  text-align: center;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  padding: 16px;
-  text-decoration: none;
-  border: 2px solid rgb(142, 247, 142);
-  border-radius: 15px;
+  background-color: rgb(211, 225, 248);
+  opacity: 0.8;
+  color: grey;
+  border-radius: 30px;
 }
 
 .opening {
@@ -139,6 +130,13 @@ img {
 
 p {
   color: grey;
+  line-height: 2;
+  font-size: larger;
+  text-align: center;
+}
+
+.bruid {
+  padding: 30px;
 }
 
 section {
@@ -278,6 +276,12 @@ thead {
   line-height: 2;
 }
 
+.contact {
+  background-color: white;
+  color: grey;
+  font-style: italic;
+  line-height: 2;
+}
 @media (max-width: 900px) {
   header {
     padding: 60px 0;
@@ -285,6 +289,8 @@ thead {
 
   header h1 {
     font-size: 25px;
+    padding: 20px;
+    line-height: ;
   }
 
   header h2 {
