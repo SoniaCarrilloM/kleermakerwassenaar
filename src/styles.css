@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  font-size: 20px;
+  font-size: 25px;
   border-radius: 30px;
   padding: 50px;
   line-height: 1px;
@@ -14,11 +14,7 @@ header {
 header h1 {
   color: grey;
   text-align: center;
-  border-radius: 50px;
-  border: 2px solid rgb(211, 225, 248);
-  padding: 10px auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  font-weight: bold;
 }
 header h2 {
   font-size: 25px;
