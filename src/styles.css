@@ -223,6 +223,12 @@ thead {
   margin: 5px;
 }
 
+.learn {
+  background-color: aquamarine;
+  border: 1 solid pink;
+  border-radius: 20px;
+}
+
 @media (max-width: 900px) {
   header {
     padding: 60px 0;
