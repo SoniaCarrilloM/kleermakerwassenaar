@@ -10,11 +10,6 @@ header {
   line-height: 1px;
 }
 
-.container {
-  border-radius: 30px;
-  margin: 5px;
-  padding: 10px;
-}
 header h1 {
   color: grey;
   text-align: center;
