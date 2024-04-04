@@ -5,7 +5,6 @@ body {
 }
 
 header {
-  font-size: 25px;
   border-radius: 30px;
   padding: 10px;
   line-height: 1px;
@@ -23,7 +22,6 @@ header h1 {
   margin: 40px;
 }
 header h2 {
-  font-size: 25px;
   color: grey;
   border-radius: 15px;
   text-align: center;
@@ -34,7 +32,6 @@ header h2 {
   color: grey;
 }
 header h3 {
-  font-size: 25px;
   color: grey;
   border-radius: 15px;
   text-align: center;
