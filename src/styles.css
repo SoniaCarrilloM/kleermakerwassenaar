@@ -216,6 +216,13 @@ thead {
   font-style: italic;
   line-height: 2;
 }
+
+.field {
+  border: 1 solid rgb(144, 227, 214);
+  border-radius: 20px;
+  margin: 5px;
+}
+
 @media (max-width: 900px) {
   header {
     padding: 60px 0;
