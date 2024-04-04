@@ -12,6 +12,8 @@ header {
 
 header h1 {
   color: grey;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
   font-weight: bold;
   margin: 40px;
@@ -21,10 +23,6 @@ header h2 {
   border-radius: 15px;
   text-align: center;
   line-height: 2;
-}
-
-.formule {
-  color: grey;
 }
 header h3 {
   color: grey;
